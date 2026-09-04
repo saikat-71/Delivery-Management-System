@@ -1,0 +1,15 @@
+Trello Card: Employee Management
+Assigned To: Mahi
+
+Description:
+Develop the employee management module to manage employee information and their roles within the Delivery Management System. The module should support efficient handling of employee-related data and operations.
+
+Requirements:
+- Employee registration
+- Employee information management
+- Employee profile update
+- Employee role management
+- Employee data validation
+- Proper error handling
+
+Status: In Progress
