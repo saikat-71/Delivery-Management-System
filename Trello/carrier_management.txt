@@ -1,0 +1,15 @@
+Trello Card: Carrier Management
+Assigned To: Punom
+
+Description:
+Develop the carrier management module for the Delivery Management System. This module will manage carrier information and support the assignment and handling of delivery services.
+
+Requirements:
+- Carrier registration
+- Carrier information management
+- Carrier profile update
+- Carrier availability management
+- Carrier assignment to shipments
+- Proper data validation and error handling
+
+Status: In Progress
