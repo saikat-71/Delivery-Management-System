@@ -1,0 +1,15 @@
+Trello Card: Shipment Tracking
+Assigned To: Mahi
+
+Description:
+Develop the shipment tracking module to allow users to monitor the current status and progress of their shipments. The system should provide updated shipment information from creation until delivery.
+
+Requirements:
+- Search shipment by tracking ID
+- Display shipment details
+- Display current shipment status
+- Track shipment progress
+- Update delivery status
+- Proper error handling
+
+Status: In Progress
