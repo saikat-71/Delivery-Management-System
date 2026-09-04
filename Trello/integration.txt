@@ -1,0 +1,15 @@
+Trello Card: Integration
+Assigned To: Team Lead
+
+Description:
+Integrate all individual modules of the Delivery Management System into one complete system. The integration process will ensure that Admin, User, Seller, Employee, Carrier, Customer, Shipment, and other modules can communicate and work together correctly.
+
+Requirements:
+- Integrate all developed modules
+- Connect frontend and backend components
+- Ensure proper data flow between modules
+- Test module-to-module communication
+- Resolve integration issues
+- Verify overall system functionality
+
+Status: In Progress
