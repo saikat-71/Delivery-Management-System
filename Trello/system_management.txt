@@ -1,0 +1,15 @@
+Trello Card: System Management
+Assigned To: Team Lead
+
+Description:
+Develop the system management features required to maintain and control the overall Delivery Management System. This includes managing system-level information, monitoring operations, and ensuring that different modules work properly within the system.
+
+Requirements:
+- System configuration
+- System information management
+- Monitoring of system activities
+- Module management
+- Data validation
+- Error handling
+
+Status: In Progress
