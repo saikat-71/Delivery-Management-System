@@ -1,0 +1,15 @@
+Trello Card: Shipment Creation
+Assigned To: Mahi
+
+Description:
+Develop the shipment creation functionality for the Delivery Management System. This module will allow sellers or authorized users to create new shipment records by providing the required shipment and delivery information.
+
+Requirements:
+- Create new shipment
+- Enter sender and receiver information
+- Enter shipment details
+- Generate shipment record
+- Validate shipment information
+- Proper error handling
+
+Status: In Progress

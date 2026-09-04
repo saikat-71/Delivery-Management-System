@@ -1,0 +1,15 @@
+Trello Card: Seller Management
+Assigned To: Mahi
+
+Description:
+Develop the seller management module for the Delivery Management System. This module will allow the system to manage seller information and seller-related operations efficiently.
+
+Requirements:
+- Seller registration and login
+- Seller profile management
+- Seller information update
+- Seller account management
+- Seller validation
+- Proper error handling
+
+Status: In Progress
