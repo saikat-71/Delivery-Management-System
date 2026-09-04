@@ -1,0 +1,15 @@
+Trello Card: Final Testing
+Assigned To: Team Lead
+
+Description:
+Perform final testing of the complete Delivery Management System after integrating all modules. The objective is to identify and fix remaining bugs and verify that the system meets the defined requirements and works correctly as a complete application.
+
+Requirements:
+- Functional testing
+- Integration testing
+- User interface testing
+- Error and validation testing
+- Bug identification and fixing
+- Final system verification
+
+Status: In Progress
