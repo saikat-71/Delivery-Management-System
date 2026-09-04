@@ -1,0 +1,15 @@
+Trello Card: Customer Management
+Assigned To: Punom
+
+Description:
+Develop the customer management module to manage customer information and customer-related operations. The module will allow customers to maintain their information and access relevant delivery services.
+
+Requirements:
+- Customer registration
+- Customer login and logout
+- Customer profile management
+- Customer information update
+- Customer shipment information
+- Proper validation and error handling
+
+Status: In Progress
