@@ -1,0 +1,16 @@
+Trello Card: Delivery Status
+Assigned To: Punom
+
+Description:
+Develop the delivery status management functionality to monitor and update the progress of shipments throughout the delivery process. The system should provide clear and accurate delivery status information.
+
+Requirements:
+- Update shipment delivery status
+- Display current delivery status
+- Manage different delivery stages
+- Track delivery progress
+- Record delivery completion
+- Handle delayed or failed deliveries
+- Proper validation and error handling
+
+Status: In Progress
