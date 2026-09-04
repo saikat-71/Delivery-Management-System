@@ -1,0 +1,15 @@
+Trello Card: Admin Management
+Assigned To: Team Lead
+
+Description:
+Develop and manage the administrator-related features of the Delivery Management System. This includes admin login, authentication, access control, and management of important system-level operations. The admin should be able to monitor and manage users and other system activities.
+
+Requirements:
+- Admin login and authentication
+- Admin dashboard
+- User/account management
+- Access and permission control
+- Management of system activities
+- Proper validation and error handling
+
+Status: Complete

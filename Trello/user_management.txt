@@ -1,0 +1,15 @@
+Trello Card: User Management
+Assigned To: Team Lead
+
+Description:
+Develop the user management module for the Delivery Management System. This module will handle user registration, login, profile information, and user-related operations. It should ensure that users can securely access and manage their accounts.
+
+Requirements:
+- User registration
+- User login and logout
+- User profile management
+- User information update
+- Authentication and validation
+- Proper error handling
+
+Status: In Progress
